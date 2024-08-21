@@ -7,4 +7,5 @@ This project is focused on exploring and analyzing customer shopping behavior us
 **Dataset**
 
 Source: The dataset used in this analysis is available on Kaggle, thanks to Sourav Banerjee. You can access it [here.](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/)
+
 Columns: The dataset includes various columns such as Customer ID, Age, Gender, Item Purchased, Category, Purchase Amount (USD), and more.
